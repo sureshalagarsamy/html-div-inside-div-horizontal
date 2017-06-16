@@ -99,3 +99,12 @@
 
 ![ScreenShot](https://user-images.githubusercontent.com/6780840/27222938-fc0f786c-52ab-11e7-852a-cf7125180c06.png)
 
+### Note
+
+These 2 properties only used make inner div as center.. other properties will be used for cosmetic effects only.
+
+```
+display: flex;
+justify-content: center;
+```
+
